@@ -1,2 +1,3 @@
-# Ruby-Proyect
-A personal proyect to learn ruby
+# Ruby-Project
+
+A personal project to learn ruby
